@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Titol",
+      "setup": "",
+      "run": "1",
+      "input": "Quin es el malware que mes afecta a les empreses?",
+      "output": "Ransomware",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
